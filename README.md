@@ -2,7 +2,7 @@ This project was bootstrapped with Create React App.
 
 Hi there, I'm Mohammed Iftekhar 👋
 
-ＱＵＡＮＴＵＭ This is an ride hiring website. It’s developed by React, React-Router, React-Hooks, React-custom-hook,React-icons,React-reveal Html, CSS and bootstrap.
+ＱＵＡＮＴＵＭ is a ride hiring website. It’s developed by React, React-Router, React-Hooks, React-custom-hook,React-icons,React-reveal Html, CSS and bootstrap.
 
 Link: https://qunatum.netlify.app/
 
